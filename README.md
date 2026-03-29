@@ -1,6 +1,6 @@
 # Hi there, I'm Mehlika İclal! 👋 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Data+Science+Aspirant;Developer+of+ORION;Researcher+and+Tutor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Data+Science+Management+Aspirant;Developer+of+ORION;Researcher+and+Tutor)
 
 ### 🌟 About Me
 I am a student from Montenegro, dedicated to the intersection of **Management and Data Science**. I believe in the power of data to solve real-world problem.
