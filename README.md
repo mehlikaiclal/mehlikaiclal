@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Data+Science+and+Management+Aspirant;Developer+of+ORION;Researcher+and+Tutor)
 
 ### 🌟 About Me
-I am a student from Montenegro,interested in understanding how **Management and Data Science** work together. I hope to use data to solve real-world problem.
+I am a student from Montenegro, interested in understanding how **Management and Data Science** work together. I hope to use data to solve real-world problem.
 
 ---
 
